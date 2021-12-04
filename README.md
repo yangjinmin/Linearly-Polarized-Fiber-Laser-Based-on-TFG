@@ -13,8 +13,7 @@ The PDL and insertion loss of the 45°TFG used in the experiment were measured, 
 ![figure 2](https://github.com/yangjinmin/Wavelength-Tunable-Linearly-Polarized-Yb-Doped-Fiber-Laser-Based-on-Tilted-Fiber-Grating/blob/main/Figure%202.PNG)   
 Fig. 2 Spectral characteristics of 45° TFG. (a) PDL spectrum of 45° TFG; (b) Insertion loss spectrum of 45° TFG
 <br>
-
-We built a tunable linearly polarized Ytterbium-doped fiber laser with a linear cavity structure, and recorded the output spectrum of the laser when the pump power was the threshold power. From Figure 3(a), it can be seen that the signal-to-noise ratio of the output laser is above 50 dB. The center wavelength is 1065.9 nm, and the 3 dB bandwidth is 0.03 nm. It can be seen from Figure 3(b) that the output laser PER is greater than 35 dB, and the polarization degree of the output laser reaches 99.9%, indicating that the output laser is almost linearly polarized.
+We built a tunable linearly polarized Ytterbium-doped fiber laser with a linear cavity structure, as shown in Figure 4, and recorded the output spectrum of the laser when the pump power was the threshold power. From Figure 3(a), it can be seen that the signal-to-noise ratio of the output laser is above 50 dB. The center wavelength is 1065.9 nm, and the 3 dB bandwidth is 0.03 nm. It can be seen from Figure 3(b) that the output laser PER is greater than 35 dB, and the polarization degree of the output laser reaches 99.9%, indicating that the output laser is almost linearly polarized.
 <br>
 
 ![figure 3](https://github.com/yangjinmin/Wavelength-Tunable-Linearly-Polarized-Yb-Doped-Fiber-Laser-Based-on-Tilted-Fiber-Grating/blob/main/Figure%203.PNG)  
