@@ -22,7 +22,7 @@ We built a tunable linearly polarized Ytterbium-doped fiber laser with a linear 
 <div align=center>
 ![figure 4](https://github.com/yangjinmin/Wavelength-Tunable-Linearly-Polarized-Yb-Doped-Fiber-Laser-Based-on-Tilted-Fiber-Grating/blob/main/Figure%204.PNG)  
 Fig. 3 Schematic diagram of wavelength tunable linearly polarized Yb laser  
-  ![figure 3](https://github.com/yangjinmin/Wavelength-Tunable-Linearly-Polarized-Yb-Doped-Fiber-Laser-Based-on-Tilted-Fiber-Grating/blob/main/Figure%203.PNG)  
+![figure 3](https://github.com/yangjinmin/Wavelength-Tunable-Linearly-Polarized-Yb-Doped-Fiber-Laser-Based-on-Tilted-Fiber-Grating/blob/main/Figure%203.PNG)  
 Fig. 4 Output laser performance of fiber linear laser. (a) Output spectrum  (b) PER transmission spectra  
 </div>  
 ## CONCLUSION
