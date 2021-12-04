@@ -9,9 +9,11 @@ The schematic diagram of the 45°TFG structure is shown in Figure 1. A series of
 <div align=center>
 <img src="https://github.com/yangjinmin/Wavelength-Tunable-Linearly-Polarized-Yb-Doped-Fiber-Laser-Based-on-Tilted-Fiber-Grating/blob/main/Figure%201.PNG" />
 </div>
-<p align="center">Fig. 1 Schematic diagram of 45°TFG</p>
-<br> 
-# Experiments and results
+<p align="center">
+Fig. 1 Schematic diagram of 45°TFG
+</p>  
+
+## Experiments and results
 The PDL and insertion loss of the 45°TFG used in the experiment were measured, and the measurement results are shown in Figure 2. It can be seen from Figure 2(a) that the PDL of 45°TFG can reach up to 30 dB, and the PDL in the wavelength range of 1060 nm to 1070 nm is always higher than 20 dB. It can be seen from Figure 2(b) that the insertion loss of the 45°TFG is less than 4 dB in the wavelength range of 1064 nm to 1068 nm. 
 <div align=center>
   <img src="https://github.com/yangjinmin/Wavelength-Tunable-Linearly-Polarized-Yb-Doped-Fiber-Laser-Based-on-Tilted-Fiber-Grating/blob/main/Figure%202.PNG" />
