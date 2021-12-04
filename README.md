@@ -19,9 +19,8 @@ The PDL and insertion loss of the 45°TFG used in the experiment were measured, 
   <img src="https://github.com/yangjinmin/Wavelength-Tunable-Linearly-Polarized-Yb-Doped-Fiber-Laser-Based-on-Tilted-Fiber-Grating/blob/main/Figure%202.PNG" />
 </div>
 <p align="center">Fig. 2 Spectral characteristics of 45° TFG. (a) PDL spectrum of 45° TFG; (b) Insertion loss spectrum of 45° TFG</p>
-<br>
+
 We built a tunable linearly polarized Ytterbium-doped fiber laser with a linear cavity structure, as shown in Figure 3.
-<br>
 <div align=center>
   <img src="https://github.com/yangjinmin/Wavelength-Tunable-Linearly-Polarized-Yb-Doped-Fiber-Laser-Based-on-Tilted-Fiber-Grating/blob/main/Figure%204.PNG" />
  </div> 
@@ -37,7 +36,7 @@ And recorded the output spectrum of the laser when the pump power was the thresh
 ## Conclusion
 Using 45°TFG as a polarizer, a single-polarization laser output with a polarization extinction ratio higher than 35 dB is realized, and the laser's polarization extinction ratio jitter is less than 2 dB within 4 hours.
 
-## Refrence
+## Reference
 [1] Zhou K M, Simpson, George, et al. High extinction ratio in-fiber polarizers based on 45° tilted fiber Bragg grating[J]. Optics Letters, 2005, 30(11): 1285-1287.  
 [2]	Wang T X, Yan Z J, Mou C B, et al. Stable nanosecond passively Q-switched all-fiber erbium-doped laser with a 45° tilted fiber grating[J]. Applied Optics, 2017, 56(12): 3583-3588.   
 [3] Sun Z Y, Yan Z J, Mou C B, et al. All-fiber loading sensor based on a hybrid 45° and 81° tilted fiber grating structure[J]. IEEE Sensors Journal, 2016, 16(2): 343-348.  
