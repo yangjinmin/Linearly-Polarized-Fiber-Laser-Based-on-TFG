@@ -5,18 +5,23 @@ Fiber lasers with linearly polarized laser output have important applications in
 ##  Properties of TFG
 The schematic diagram of the 45°TFG structure is shown in Figure 1. A series of fringes with periodic changes in refractive index will be produced during the UV lithography writing process. According to Brewster's law, when unpolarized light enters the interface where the refractive index changes at Brewster's angle, the p light continues to propagate, and the s light radiates out of the fiber through the fiber cladding. In 2009, Mou used the alternative Green's function method to conduct theoretical and experimental research on the coupling mode of light in TFGs with different tilt angles. The results show that when the tilt angle is 45°, the tilted grating has the greatest loss of s light. Therefore, 45°TFG can have a fairly high PDL and can act as a polarizer.
 <br>
+<div align=center>
 ![figure 1](https://github.com/yangjinmin/Wavelength-Tunable-Linearly-Polarized-Yb-Doped-Fiber-Laser-Based-on-Tilted-Fiber-Grating/blob/main/Figure%201.PNG)  
-Fig. 1 Schematic diagram of 45°TFG 
+Fig. 1 Schematic diagram of 45°TFG
+</div>
 <br>
 ## Experiments and results
-The PDL and insertion loss of the 45°TFG used in the experiment were measured, and the measurement results are shown in Figure 2. It can be seen from Figure 2(a) that the PDL of 45°TFG can reach up to 30 dB, and the PDL in the wavelength range of 1060 nm to 1070 nm is always higher than 20 dB. It can be seen from Figure 2(b) that the insertion loss of the 45°TFG is less than 4 dB in the wavelength range of 1064 nm to 1068 nm.  
+The PDL and insertion loss of the 45°TFG used in the experiment were measured, and the measurement results are shown in Figure 2. It can be seen from Figure 2(a) that the PDL of 45°TFG can reach up to 30 dB, and the PDL in the wavelength range of 1060 nm to 1070 nm is always higher than 20 dB. It can be seen from Figure 2(b) that the insertion loss of the 45°TFG is less than 4 dB in the wavelength range of 1064 nm to 1068 nm. 
+<div align=center>
 ![figure 2](https://github.com/yangjinmin/Wavelength-Tunable-Linearly-Polarized-Yb-Doped-Fiber-Laser-Based-on-Tilted-Fiber-Grating/blob/main/Figure%202.PNG)   
 Fig. 2 Spectral characteristics of 45° TFG. (a) PDL spectrum of 45° TFG; (b) Insertion loss spectrum of 45° TFG
+</div>
 <br>
 We built a tunable linearly polarized Ytterbium-doped fiber laser with a linear cavity structure, as shown in Figure 4, and recorded the output spectrum of the laser when the pump power was the threshold power. From Figure 3(a), it can be seen that the signal-to-noise ratio of the output laser is above 50 dB. The center wavelength is 1065.9 nm, and the 3 dB bandwidth is 0.03 nm. It can be seen from Figure 3(b) that the output laser PER is greater than 35 dB, and the polarization degree of the output laser reaches 99.9%, indicating that the output laser is almost linearly polarized.
 <br>
+<div align=center>
 ![figure 3](https://github.com/yangjinmin/Wavelength-Tunable-Linearly-Polarized-Yb-Doped-Fiber-Laser-Based-on-Tilted-Fiber-Grating/blob/main/Figure%203.PNG)  
 Fig. 3 Output laser performance of fiber linear laser. (a) Output spectrum; (b) PER transmission spectra; 
-
+</div>
 ## CONCLUSION
 Using 45°TFG as a polarizer, a single-polarization laser output with a polarization extinction ratio higher than 35 dB is realized, and the laser's polarization extinction ratio jitter is less than 2 dB within 4 hours.
