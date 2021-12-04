@@ -1,4 +1,4 @@
-# Wavelength-Tunable-Linearly-Polarized-Yb-Doped-Fiber-Laser-Based-on-Tilted-Fiber-Grating
+# Linearly Polarized Yb-Doped Fiber Laser Based on TFG
 ##  Abstract
 We have proposed and demonstrated a tunable linearly polarized Yb-doped fiber laser based on a 45° tilted fiber grating and a fiber Bragg grating with a linear cavity design.Using a 45° tilted fiber grating as polarization device, a linearly polarized laser output with a central wavelength of 1065.9 nm, a 3 dB bandwidth of 0.03 nm, and a polarization extinction ratio higher than 35 dB is achieved.  
 ##  Introduction
